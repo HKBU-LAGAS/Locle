@@ -1,0 +1,6 @@
+*.log
+*.png
+# *.sh
+src/pics/*
+data/*
+*.zip

@@ -1,0 +1,5 @@
+DATA_PATH: data
+OPENAI_KEY: CHANGE-TO-YOUR-OPEN-AI-KEY
+PALM_KEY: none
+LOGIT_PATH: src/
+PARTITIONS: data/partitions
