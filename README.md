@@ -1,6 +1,7 @@
 # Locle
 
 [Hugging Face🤗](https://huggingface.co/papers/2412.11983)
+
 This repository contains code of paper "Leveraging Large Language Models for Effective Label-free Node
 Classification in Text-Attributed Graphs". To reproduce the results in the paper, please follow the following steps:
 
