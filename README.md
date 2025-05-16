@@ -1,9 +1,9 @@
-# Locle(SIGIR2025)
+# Locle
 
 [Hugging Face🤗](https://huggingface.co/papers/2412.11983)
 
 This repository contains the code of the paper "Leveraging Large Language Models for Effective Label-free Node
-Classification in Text-Attributed Graphs". To reproduce the results in the paper, please follow the steps:
+Classification in Text-Attributed Graphs"(sigir 2025). To reproduce the results in the paper, please follow the steps:
 
 1. Prepare the environment with
 ```
